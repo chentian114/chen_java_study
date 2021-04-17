@@ -6,7 +6,7 @@ import java.util.LinkedList;
 /**
  * @author: Chentian
  * @date: Created in 2021/4/13 0:27
- * @desc 模拟实现 数据库连接池
+ * @desc 使用 wait()/notifyAll() 模拟实现 数据库连接池
  */
 public class DBPool {
 
